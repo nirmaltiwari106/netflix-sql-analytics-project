@@ -19,7 +19,7 @@ CREATE TABLE netflix
 
 SELECT * FROM netflix;
 
--- 15 Business Problems & Solutions
+ Business Problems & Solutions
 
 1. Count the number of Movies vs TV Shows
 2. Find the most common rating for movies and TV shows
